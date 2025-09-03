@@ -5,6 +5,7 @@ import ctypes
 import win32gui
 
 import os
+import sys
 
 from selenium import webdriver
 import time
@@ -82,7 +83,7 @@ else:
     options = webdriver.EdgeOptions();
     options.add_argument("--disable-web-security");
     driver = webdriver.Edge(options)
-    driver.get("file:///"+os.path.dirname(os.path.abspath(__file__))+"/map.html")
+    driver.get("file:///"+os.path.dirname(sys.argv[0])+"/map.html")
     while(driver.current_url.find('#') <= 0):
         time.sleep(1)
     driver.execute_script("initPlayerMarker()")
