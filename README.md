@@ -16,10 +16,10 @@ Satisfactory game map for the secondary screen that shows the player's location 
 
 
 
-The map will automatically track the player's position, similar to the in-game minimap. It is recommended to display the map on a secondary screen.
-Source: satisfactory-calculator.com. You can use its layer switching or game save loading features. The interface is in Chinese and does not support language switching, which will disable the player position display function.
-Compatible with Windows only.
-Game updates may cause this script to fail in retrieving the player's position. If this happens, you will need to return here to download the latest version of the script. However, not every game update will require this action.
+The map will automatically track the player's position, similar to the in-game minimap. It is recommended to display the map on a secondary screen.  
+Source: satisfactory-calculator.com. You can use its layer switching or game save loading features. The interface is in Chinese and does not support language switching, which will disable the player position display function.  
+Compatible with Windows only.  
+Game updates may cause this script to fail in retrieving the player's position. If this happens, you will need to return here to download the latest version of the script. However, not every game update will require this action.  
 
 ---
 
@@ -33,8 +33,8 @@ Game updates may cause this script to fail in retrieving the player's position. 
 
 
 
-打开的地图会自动跟随玩家位置，就像游戏内置小地图一样。建议把地图放在副屏。
-地图来源：satisfactory-calculator.com，可以使用其中的切换图层或读取游戏存档功能。中文界面，不能切换语言，会导致显示玩家位置的功能失效。
-只能在windows下使用。
-游戏更新可能会导致这个脚本无法获取玩家位置，需要你回到这里下载最新的脚本。但不是每次游戏更新都需要这样做。
+打开的地图会自动跟随玩家位置，就像游戏内置小地图一样。建议把地图放在副屏。  
+地图来源：satisfactory-calculator.com，可以使用其中的切换图层或读取游戏存档功能。中文界面，不能切换语言，会导致显示玩家位置的功能失效。  
+只能在windows下使用。  
+游戏更新可能会导致这个脚本无法获取玩家位置，需要你回到这里下载最新的脚本。但不是每次游戏更新都需要这样做。  
 
